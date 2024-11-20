@@ -1,10 +1,4 @@
-/**
- * @author JALA Academy
- * Website Reference : https://java.jalaacademy.com/java/java_basics.html
- *
- * 4. Define variables for different Data Types int, Boolean, char, float,
- * double and print on the Console
- */
+
 package com.jala.basics;
 
 public class DataTypes {
@@ -15,10 +9,10 @@ public class DataTypes {
         char c = 'C';             // Default size is 2 byte
         boolean b = false;           // Default size is 1 byte
 
-        System.out.println("This is an Integer "+i);
-        System.out.println("This is a Float " + f);
-        System.out.println("This is a Double " + d);
-        System.out.println("This is a Char " + c);
-        System.out.println("This is a Boolean " + b);
+        System.out.p is an Integer "+i);
+        System.out.print a Float " + f);
+        System.out.println(" a Double " + d);
+        System.out.pr s a Char " + c);
+        System.out.println  Boolean " + b);
     }
-}
+}  
